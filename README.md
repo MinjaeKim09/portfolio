@@ -43,7 +43,7 @@
 
 As part of a finalist team in NYU's Engineering and Design competition, contributed to the development of a 4-button gamepad designed to enhance gameplay experience in rhythm games. Programmed Arduino code for LED light synchronization with music.
 
-![4-Button Gamepad](/assets/gamepad.jpeg)
+![4-Button Gamepad](/assets/gamepad.png)
 
 ### Autonomous Robot Programming
 Tutored students in programming autonomous robots, including a Hamster robot and a drone. Developed educational materials and guided students through coding challenges.
