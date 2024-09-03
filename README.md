@@ -20,7 +20,7 @@
 
 **America Reads Tutor (_February 2024 - Present_)**
 - Paid tutoring for underprivileged middle schoolers in the NYC public school district.
-- Working with teachers assist struggling students with reading comprehension and math.
+- Working with teachers to assist struggling students with reading comprehension and math.
 - Affiliated with NYU's work-study program.
 
 **Programming Tutor @ K-Group (_October 2020 - March 2021_)**
